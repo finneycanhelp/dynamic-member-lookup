@@ -16,7 +16,6 @@ xcuserdata
 DerivedData
 *.xcuserstate
 upload_dsym_results
-*.zip
 
 ### Objective-C ###
 # Xcode
